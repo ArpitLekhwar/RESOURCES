@@ -1,10 +1,10 @@
-// Program to count vowel in each word from the string
+// Program to count vowels in each word from the string
 import java.util.*;
 class VowelCount {
     Scanner sc = new Scanner(System.in);
     String s = "", w = ""; int count = 0, l = 0, n = 0;
     void input() {
-        System.out.print("Enter the number:");
+        System.out.print("Enter the String:");
         s = sc.nextLine();
     }
     void count() {
