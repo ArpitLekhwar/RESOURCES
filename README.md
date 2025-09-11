@@ -1,2 +1,2 @@
-# Codes
-Codes I used to learn the mentioned topics
+# Resources
+Codes I used to learn about Strings, Arrays and Recursion
