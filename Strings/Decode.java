@@ -1,4 +1,4 @@
-//Write a program to enter a code in and convert the code into text using ASCII.
+//Write a program to enter a code in numeric form and convert the code into text using ASCII
 //Eg: Code:-10665771011153266797868
 //Decoded Text:- James Bond
 import java.util.*;
