@@ -1,4 +1,4 @@
-// Program to count and display frequency of each character in a string
+// Program to count and display the frequency of each character in a string
 import java.util.*;
 class CharacterFrequency {
     Scanner sc = new Scanner(System.in);
