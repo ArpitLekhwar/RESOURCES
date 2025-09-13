@@ -13,7 +13,7 @@ class VowelCount {
         String v = "AEIOUaeiou";
         for(int i = 1; i <= c; i++) {
             w = x.nextToken();
-            l = w.length(); n = 0;d
+            l = w.length(); n = 0;
             for(int j = 0; j < l; j++) {
                 char ch = w.charAt(j);
                 if(v.indexOf(ch) != -1) {n++;}
